@@ -1,0 +1,23 @@
+{
+  "name": "koa-website",
+  "version": "1.0.0",
+  "description": "koa koa-router",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"\"\u001b[D\u001b",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa",
+    "koa-router"
+  ],
+  "author": "caicai",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.3.0",
+    "koa-static": "^4.0.2",
+    "nunjucks": "^3.0.1"
+  }
+}
